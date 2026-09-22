@@ -1,0 +1,51 @@
+# ============================================================
+#  Typing Game Pro — Requirements
+# ============================================================
+#  Python >= 3.8
+# ============================================================
+
+# ------------------------------------------------------------
+#  NO EXTERNAL DEPENDENCIES
+# ------------------------------------------------------------
+#  This project runs entirely on Python's standard library.
+#
+#  Standard modules used:
+#    - tkinter    (GUI)
+#    - math       (animation math)
+#    - os         (file paths)
+#    - random     (word selection)
+#    - time       (timing)
+#    - datetime   (session timestamps)
+#
+# ------------------------------------------------------------
+#  OPTIONAL
+# ------------------------------------------------------------
+#  Sound support:
+#    - winsound   (Windows only — built-in, no install needed)
+#    - On Linux/macOS, the game runs silently without errors.
+#
+# ------------------------------------------------------------
+#  INSTALLATION
+# ------------------------------------------------------------
+#  1. Install Python 3.8 or newer:
+#       https://www.python.org/downloads/
+#
+#  2. (Optional) Create a virtual environment:
+#       python -m venv venv
+#       # Windows:
+#       venv\Scripts\activate
+#       # Linux/macOS:
+#       source venv/bin/activate
+#
+#  3. Run the game:
+#       python KEYBOARD_GAME.py
+#
+# ------------------------------------------------------------
+#  PACKAGE INSTALLATION (not needed, but kept for pip)
+# ------------------------------------------------------------
+#  There is nothing to install.
+#  Running the command below is safe but unnecessary:
+#
+#       pip install -r requirements.txt
+#
+# ============================================================
